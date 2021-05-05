@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rd-goncalves
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning React.js | Next.js| Typescript
+- 🌱 I’m currently learning React.js | Next.js | Typescript
 - 📫 How to reach me:
 
 LinkedIn: https://www.linkedin.com/in/rdgonçalves/

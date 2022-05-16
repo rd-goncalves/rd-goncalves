@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raphael Gonçalves!
 - 👀 I’m interested in developing web applications
-- 🌱 I’m currently learning React.js | Next.js | Typescript
+- 🌱 I work with React.js | Next.js | Typescript
 
 
 - 📫 How to reach me:
